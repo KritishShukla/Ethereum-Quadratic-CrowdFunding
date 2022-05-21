@@ -19,19 +19,12 @@
     <li>
       <a href="#about-the-project">What is Eth QF?</a>
       </li>
-      <li>
-      <a href="#screenshots">Screenshots</a>
-      </li>
-      <li>
-         <a href="#video">Demonstration Video</a>
-      </li>
     <li><a href="#features">Features</a>
     </li>
     <li><a href="#technologies-used">Technologies, Libraries and Packages Used</a>
     </li>
       <li><a href="#local-setup">Local Setup</a></li>
-      <li><a href="#next">What Next?</a></li>
-    <li><a href="#team">Team Members</a></li>
+    <li><a href="#next">What Next?</a></li>
   </ol>
 </details>
 
